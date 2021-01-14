@@ -1,0 +1,7 @@
+title:  Привет
+---
+author: да
+---
+body: пост <br><img src="https://github.com/strijovegor/lektor/blob/main/lektor-test/content/blog/hello/kuku.jpg" width=200></img>
+---
+pub_date: 1337-01-01
